@@ -25,9 +25,9 @@ github: gazreese
 # [ ] need to disable
 twitter: twitter
 
-tel: +44 (0)7717 006958
-tel_full: tel:+447717006958
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+# tel: +44 (0)7717 006958
+# tel_full: tel:+447717006958
+google_maps: 'https://www.google.co.uk/maps/@53.4168798,-2.0778016,17z'
 
 # [ ] need to disable
 # address: 66 Perth Street
