@@ -1,0 +1,43 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://gazreese.com/cv
+author: Gareth Reese
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Gareth Reese's Resume
+name: Gareth Reese
+email: gazreese@gmail.com
+email_full: mailto:gazreese@gmail.com
+website: gazreese.com
+website_full: https://gazreese.com
+github: gazreese
+
+# [ ] need to disable
+twitter: twitter
+
+tel: +44 (0)7717 006958
+tel_full: tel:+447717006958
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+
+# [ ] need to disable
+# address: 66 Perth Street
+# postcode: EH3 5BL
+
+city: Manchester
+country: United Kingdom
+
+# [ ] update
+google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
