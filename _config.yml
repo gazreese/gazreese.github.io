@@ -37,7 +37,7 @@ city: Manchester
 country: United Kingdom
 
 # [ ] update
-google_analytics: UA-69300817-1
+google_analytics: UA-102085962-1
 
 # needed for travis-ci build
 exclude: [vendor]
